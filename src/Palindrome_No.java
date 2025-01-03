@@ -14,9 +14,8 @@ public class Palindrome_No {
         }
         if (orig_n == rev_n) {
             System.out.println(orig_n + " is a palindrome");
-        }
-        else {
-            System.out.println(orig_n+" is not a palindrome");
+        } else {
+            System.out.println(orig_n + " is not a palindrome");
         }
         s.close();
     }
